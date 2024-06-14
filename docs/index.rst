@@ -10,7 +10,7 @@ Welcome to The Deed Machine's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   racial_covenants_processor/docs/index
+   racial_covenants_processor/docs/index.rst
 
 Indices and tables
 ==================
