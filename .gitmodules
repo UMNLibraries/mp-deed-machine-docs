@@ -1,0 +1,6 @@
+[submodule "racial_covenants_processor"]
+	path = racial_covenants_processor
+	url = https://github.com/UMNLibraries/racial_covenants_processor.git
+[submodule "mp-covenants-term-search-basic"]
+	path = mp-covenants-term-search-basic
+	url = https://github.com/UMNLibraries/mp-covenants-term-search-basic.git
