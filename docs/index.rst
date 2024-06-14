@@ -12,7 +12,7 @@ Welcome to The Deed Machine's documentation!
 
    racial_covenants_processor/docs/index
 
-   .. include:: ../racial_covenants_processor/index.rst
+   .. include:: ../racial_covenants_processor/docs/index.rst
 
 Indices and tables
 ==================
